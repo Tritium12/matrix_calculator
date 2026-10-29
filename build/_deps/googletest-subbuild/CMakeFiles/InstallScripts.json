@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/hubba_bubba/projects/laba3/matrix_calculator/build/_deps/googletest-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
