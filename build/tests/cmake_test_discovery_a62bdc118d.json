@@ -1,0 +1,72 @@
+{
+  "tests": 12,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "MatrixTest",
+      "tests": 12,
+      "testsuite": [
+        {
+          "name": "CreateMatrix_NormalCase",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 7
+        },
+        {
+          "name": "Addition_NormalCase",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 24
+        },
+        {
+          "name": "Multiplication_NormalCase",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 42
+        },
+        {
+          "name": "FreeMatrix_NormalCase",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 61
+        },
+        {
+          "name": "CreateMatrix_MinimumSize",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 68
+        },
+        {
+          "name": "Multiplication_RowTimesColumn_1x1",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 79
+        },
+        {
+          "name": "Submatrix_BasicExtraction",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 95
+        },
+        {
+          "name": "CreateMatrix_ZeroRows",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 123
+        },
+        {
+          "name": "CreateMatrix_NegativeCols",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 127
+        },
+        {
+          "name": "Addition_SizeMismatch",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 132
+        },
+        {
+          "name": "Multiplication_SizeMismatch",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 142
+        },
+        {
+          "name": "FreeMatrix_EmptyIsSafe",
+          "file": "\/home\/hubba_bubba\/projects\/laba3\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 150
+        }
+      ]
+    }
+  ]
+}
